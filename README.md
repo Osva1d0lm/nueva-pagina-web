@@ -2,7 +2,7 @@
 
 ## Explicación del proceso
 
-Antes de escribir una sola línea de código, hice una planificación en papel: pensé en los colores que me representaban, los contenidos clave que quería mostrar y el orden en que presentar mi historia. Escogí el color **turquesa o verde agua** como eje visual porque transmite frescura, claridad y profesionalismo, algo que quiero reflejar también en mi trabajo como futuro periodista.
+Antes de escribir una sola línea de código, hice una planificación en papel: pensé en los colores que me representaban, los contenidos clave que quería mostrar y el orden en que presentar mi historia. Escogí el color turquesa o verde agua como eje visual porque transmite frescura, claridad y profesionalismo, algo que podriamos decri que refleja un poco mi desempeño como futuro periodista.
 
 Seguí paso a paso las instrucciones que nos entregaron:
 - Empecé modificando la estructura básica inicial de `index.html` que habíamos creado en clase, agregando el contenido del CV en secciones bien diferenciadas.
