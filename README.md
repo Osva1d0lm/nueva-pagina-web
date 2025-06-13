@@ -22,7 +22,7 @@ Seguí paso a paso las instrucciones que nos entregaron:
 
 ## Link del sitio publicado
 
-[https://osva1d0lm.github.io/nueva-pagina-web/](https://osva1d0lm.github.io/nueva-pagina-web/)
+(https://osva1d0lm.github.io/tarea_03_CV/)
 ---
 **Autor:** Osvaldo Arturo Olmazabal Saavedra  
 **Correo:** osvaldo.olmazabal@uc.cl  
