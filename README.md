@@ -1,6 +1,6 @@
 # Currículum Vitae Digital – Osvaldo Olmazabal
 
-##Explicación del proceso
+## Explicación del proceso
 
 Antes de escribir una sola línea de código, hice una planificación en papel: pensé en los colores que me representaban, los contenidos clave que quería mostrar y el orden en que presentar mi historia. Escogí el color **turquesa o verde agua** como eje visual porque transmite frescura, claridad y profesionalismo, algo que quiero reflejar también en mi trabajo como futuro periodista.
 
