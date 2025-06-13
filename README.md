@@ -10,7 +10,7 @@ Seguí paso a paso las instrucciones que nos entregaron:
 - Luego pasé al `styles.css`, donde trabajé con paletas suaves, un diseño sobrio y moderno, y aseguré que cada sección fuera legible y con buena jerarquía visual. Elegí ese color turquesa porque es uno de mis colores favoritos y pensé que podría quedar bien para el trabajo.
 - Finalmente, publiqué el sitio en GitHub Pages y me aseguré de que todo funcionara correctamente en la versión en línea.
 
-## 👤 Elementos que contiene mi CV
+## Elementos que contiene mi CV
 
 - Una presentación personal y profesional clara.
 - Mis estudios desde la enseñanza básica (2010) hasta mi actual carrera en Periodismo (desde 2022).
