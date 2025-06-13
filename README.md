@@ -1,4 +1,4 @@
-# Currículum Vitae Digital – Osvaldo Olmazabal
+# Currículum Vitae Digital Osvaldo Olmazabal
 
 ## Explicación del proceso
 
